@@ -1,0 +1,1 @@
+Every member of the club is engaged in different activities and tracking their work each day, becomes a necessity. Status update is the solution to it. But the problem with this prcess occurs when the members of the club do not send status update regularly. There may be no updation of the task he/she did. I Despite of many nding the status update 
