@@ -11,11 +11,13 @@ The problem have to be solved by making them regular to the status update.
 The whole process of sending the status can be made more automated by using To-Do-List.
 Every person may keep the to-do-list for keeping the track of his work. The same tracking space can automate the process of sending the status update manually each day.
 The project aims the user to just update the To-Do-List, once the task is done. At the end of the day when the user runs the script the draft is automatically generated from the To-Do-List for that particaular day and is sent to the amFoss thread.
-This whole process also works in situations when you don't have laptops or lack of good.
+This whole process also works in situations when you don't have laptops.
 
 
 
 |---To-Do-List
+
 |---Automatic Mail
+
 |---Point and badges(gamification)
 
